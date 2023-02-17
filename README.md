@@ -1,9 +1,7 @@
 # FilmesAPI
 
 ## Bem vindo (a) ao meu repositório de API de Filmes!
-<code>
-🎯 Projeto de criação de API realizado durante o curso de .NET 6: Criando uma web API
-</code>
+<code>🎯 Projeto de criação de API realizado durante o curso de .NET 6: Criando uma web API</code>
 
 <hr>
 
